@@ -4,4 +4,7 @@
     <string name="hello">Hello World, TimeTrackerActivity!</string>
     <string name="app_name">TimeTracker</string>
 
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
 </resources>
